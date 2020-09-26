@@ -7,5 +7,6 @@ All programs are written in C
 1. Hashing
 2. Sorting Algorithms
 3. Linked Lists
+4. Stacks
 
 
