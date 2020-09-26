@@ -2,20 +2,7 @@ Design a method for keeping two stacks with in a single linear array so that nei
 until all the memory is used, ( one grows from one side of the array and the other grows from the other
 side) . Write all operations of stacks. eg. PUSH(x,S) that pushes element x onto stack S, where is S one
 or other of these two stacks. Include all necessary error checks.
-Preena K P
-•
-Aug 24, 2019
-100 points
-Due Oct 18, 2019
-Class comments
 
-
-Your work
-Turned in late
-
-dstack.c
-C
-Private comments
 
 
 #include<stdio.h>
