@@ -9,5 +9,6 @@ All programs are written in C
 3. Linked Lists
 4. Stacks
 5. Queues
+6. Evaluation & Conversion of Polish Notations (Prefix/Postfix)
 
 
