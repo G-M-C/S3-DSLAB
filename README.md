@@ -10,5 +10,6 @@ All programs are written in C
 4. Stacks
 5. Queues
 6. Evaluation & Conversion of Polish Notations (Prefix/Postfix)
+</pre>
 
 
