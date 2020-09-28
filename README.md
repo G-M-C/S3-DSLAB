@@ -8,5 +8,6 @@ All programs are written in C
 2. Sorting Algorithms
 3. Linked Lists
 4. Stacks
+5. Queues
 
 
