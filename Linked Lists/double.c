@@ -1,22 +1,4 @@
-Write a menu driven program in C to implement a doubly linked list and to perform the following
-i) Insert a node at the beginning of the list
-ii) Insert a node after a particular node in the list
-iii) Insert a node at the end of the list
-iv) Delete a node containing a particular item
-Preena K P
-•
-Aug 24, 2019
-100 points
-Due Oct 4, 2019
-Class comments
 
-
-Your work
-Turned in late
-
-dll.c
-C
-Private comments
 
 Write a menu driven program in C to implement a doubly linked list and to perform the following i) Insert a node at the beginning of the list ii) Insert a node after a particular node in the list iii) Insert a node at the end of the list iv) Delete a node containing a particular item
 #include<stdio.h>
