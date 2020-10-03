@@ -1,18 +1,4 @@
-Write a program in C to reverse a given singly linked list
-Preena K P
-•
-Aug 24, 2019 (Edited Aug 24, 2019)
-100 points
-Due Oct 4, 2019
-Class comments
 
-
-Your work
-Turned in late
-
-llrev.c
-C
-Private comments
 
 
 #include<stdio.h>
